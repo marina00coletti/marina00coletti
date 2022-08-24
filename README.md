@@ -1,3 +1,6 @@
+# Olá 😁 Meu nome é Marina Coletti, sou Desenvolvedora Web.
+### Sou aprendiz e entusiasta de Tecnologia da Informação. Todo conhecimento do assunto a ser compartilhado é bem-vindo, assim como troca de experiências e parcerias.
+
 <div>
   <a href="https://github.com/marina00coletti">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marina00coletti&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
